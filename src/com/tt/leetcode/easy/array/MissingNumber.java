@@ -1,4 +1,4 @@
-package com.tt.leetcode.easy.Integer;
+package com.tt.leetcode.easy.array;
 
 /**
  * @Description 丢失的数字
